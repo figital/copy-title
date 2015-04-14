@@ -1,2 +1,3 @@
-# copy-title
-bookmarklet to copy the title of the current page
+The readme is the only file in this repo. Just drag the "bookmarket" to your toolbar ...
+
+copy-title-bookmarklet
