@@ -1,3 +1,3 @@
 The readme is the only file in this repo. Just drag the "bookmarket" to your toolbar ...
 
-copy-title-bookmarklet
+<a href="javascript:(function(){javascript:window.prompt("Copy to clipboard: Ctrl+C, Enter",document.title);})();">copy-title-bookmarklet</a>
